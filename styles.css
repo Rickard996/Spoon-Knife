@@ -16,3 +16,7 @@ p {
   margin: 50px auto;
   font: 10pt Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+div p{
+  background-color: red;
+}
